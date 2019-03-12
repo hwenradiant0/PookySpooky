@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f998023a21212994e9880473591b3acd
+timeCreated: 1497185441
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yj CHMSOOT Bold
+  fontNames:
+  - Yj CHMSOOT Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

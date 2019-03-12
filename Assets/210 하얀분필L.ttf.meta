@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 457690e044183e3498b76ed04efaa8b1
+timeCreated: 1496933538
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 210 Hayanbunpil
+  fontNames:
+  - 210 Hayanbunpil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
